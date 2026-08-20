@@ -162,7 +162,8 @@ The measured audio voltage gain was approximately **20.84**. No severe clipping 
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 
 **Soha Niroomand**  
-Student ID: **403170569**
+Sharif University of Technology  
+soha.niroomand@gmail.com
